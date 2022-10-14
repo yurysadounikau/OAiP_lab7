@@ -1,0 +1,8 @@
+﻿  lab_7.1.cpp
+D:\c++\lab_7.1\lab_7.1.cpp(31,26): warning C4552: '<': result of expression not used
+D:\c++\lab_7.1\lab_7.1.cpp(64,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\c++\lab_7.1\lab_7.1.cpp(69,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\c++\lab_7.1\lab_7.1.cpp(211,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\lab_7.1\lab_7.1.cpp(221,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\c++\lab_7.1\lab_7.1.cpp(222,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lab_7.1.vcxproj -> D:\c++\lab_7.1\x64\Debug\lab_7.1.exe

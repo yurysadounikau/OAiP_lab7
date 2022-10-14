@@ -1,6 +1,0 @@
-﻿  lab_7.1.cpp
-D:\c++\lab_7.1\lab_7.1.cpp(23,26): warning C4552: '<': result of expression not used
-D:\c++\lab_7.1\lab_7.1.cpp(54,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\c++\lab_7.1\lab_7.1.cpp(59,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-D:\c++\lab_7.1\lab_7.1.cpp(80,2): error C3861: 'choice': identifier not found
-D:\c++\lab_7.1\lab_7.1.cpp(107,3): error C3861: 'ex1': identifier not found
